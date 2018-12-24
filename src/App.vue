@@ -14,6 +14,7 @@
   color: #2c3e50;
   max-width: 720px;
   max-height: 540px;
+  margin: 50px auto;
 }
 #nav {
   padding: 30px;
