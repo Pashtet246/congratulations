@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <Header/>
     <Congratulations/>
   </div>
 </template>
@@ -10,7 +11,7 @@ import Congratulations from '@/components/Congratulations.vue';
 export default {
   name: 'home',
   components: {
-    Congratulations,
+    Congratulations
   },
 };
 </script>
